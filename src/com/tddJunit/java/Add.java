@@ -5,4 +5,5 @@ public interface Add {
 
   long add(long... operands);
 
+  
 }
