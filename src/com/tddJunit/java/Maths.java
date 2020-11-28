@@ -2,7 +2,6 @@ package com.tddJunit.java;
 
 
 public class Maths implements Add, Subtract {
-
   @Override
   public long add(long... operands) {
     long ret = 0;
