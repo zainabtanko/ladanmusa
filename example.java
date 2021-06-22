@@ -4,10 +4,10 @@ function() {
 
 }
 
-function() {
 
-        echo "Function Two"
+function3() {
+
+        echo "Function Three"
 
 }
-
-
+>>>>>>> B
